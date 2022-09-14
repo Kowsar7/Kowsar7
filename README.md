@@ -18,7 +18,7 @@ Skills: <br />
 <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kowsar7&show_icons=true&theme=jolly)](https://github.com/Kowsar7/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kowsar7&repo=github-readme-stats)](https://github.com/Kowsar7/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kowsar7&layout=compact)](https://github.com/Kowsar7/github-readme-stats)
 
 <br />
 
