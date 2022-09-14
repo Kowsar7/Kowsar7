@@ -3,6 +3,6 @@ Hi, I'm Kowsar, and I graduated from the University of AmirKabir in 2021 with a 
 I'm interested in having a job in this field to learn more things and have experience in team work. Please visit my projests:
 
 https://kowsar7.github.io/pipboy <br />
-https://kowsar7.github.io/FAQ-card
-https://kowsar7.github.io/preview-card
-https://kowsar7.github.io/qr-code
+https://kowsar7.github.io/FAQ-card <br />
+https://kowsar7.github.io/preview-card <br />
+https://kowsar7.github.io/qr-code <br />
