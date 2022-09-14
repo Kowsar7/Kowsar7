@@ -8,3 +8,8 @@ https://kowsar7.github.io/FAQ-card <br />
 https://kowsar7.github.io/preview-card <br />
 https://kowsar7.github.io/qr-code <br />
 
+Skills:
+https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+
+
+![Kowsar](https://user-images.githubusercontent.com/112375872/190144301-94bd9d1d-812b-4831-bd32-8dc3de09a615.png)
