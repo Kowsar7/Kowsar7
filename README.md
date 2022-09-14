@@ -17,8 +17,7 @@ Skills: <br />
 <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
 
-
-
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kowsar7&show_icons=true&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kowsar7&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
 ![Kowsar](https://user-images.githubusercontent.com/112375872/190144301-94bd9d1d-812b-4831-bd32-8dc3de09a615.png)
