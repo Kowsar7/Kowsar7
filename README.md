@@ -20,5 +20,5 @@ Skills: <br />
 
 
 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiKowsar7anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 ![Kowsar](https://user-images.githubusercontent.com/112375872/190144301-94bd9d1d-812b-4831-bd32-8dc3de09a615.png)
